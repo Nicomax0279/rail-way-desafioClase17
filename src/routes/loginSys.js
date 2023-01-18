@@ -32,7 +32,7 @@ lsRouter.post("/login",passport.authenticate("loginStrategy",{
     res.redirect("/profile")
 });
 lsRouter.get("/signup",checkSession,(req,res)=>{  
-    logger.info(`ruta : ${req.path}, peticion : ${req.method}`)  
+   
 const errorMessage = req.session.messages ? req.session.messages[0]: ''    
 res.render("signup",{error:errorMessage})
 req.session.messages = []
