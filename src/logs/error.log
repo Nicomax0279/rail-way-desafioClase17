@@ -1,0 +1,19 @@
+[2023-01-13T17:14:48.867] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-13T17:14:57.768] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-13T17:14:59.892] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-13T17:15:01.150] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-13T17:15:31.101] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-13T17:15:52.829] [ERROR] default - error en api Products ruta : /2, peticion : PUT
+[2023-01-13T17:16:00.594] [ERROR] default - error en api Products ruta : /3, peticion : PUT
+[2023-01-14T10:43:17.256] [ERROR] default - El objeto con id 5 no existe 
+[2023-01-14T10:43:45.084] [ERROR] default - El objeto con id 5 no existe 
+[2023-01-14T10:43:47.726] [ERROR] default - El objeto con id 5 no existe 
+[2023-01-14T10:43:50.548] [ERROR] default - El objeto con id 5 no existe 
+[2023-01-14T10:44:09.490] [ERROR] default - El objeto con id 5 no existe 
+[2023-01-14T10:49:01.927] [ERROR] default - El campo title esta vacio 
+[2023-01-14T10:49:01.930] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-14T10:49:39.621] [ERROR] default - El campo title esta vacio 
+[2023-01-14T10:49:53.191] [ERROR] default - El campo title esta vacio 
+[2023-01-14T10:49:53.195] [ERROR] default - error en api Products ruta : /, peticion : POST
+[2023-01-14T10:49:56.044] [ERROR] default - El campo title esta vacio 
+[2023-01-14T10:49:56.045] [ERROR] default - error en api Products ruta : /, peticion : POST

@@ -1,0 +1,19 @@
+<h1>Chat Page</h1>
+
+<div class="container">
+
+    <label>menssage</label>    
+    <input type="text" id="menssageField"> 
+
+    </div>   
+    <div id="MensaggesContainer">
+    {{#each chat}}
+    <p>
+        <e style="color: rgb(36, 36, 189);">{{this.date}}</e>
+        {{this.username}}:
+        {{this.menssage}}  
+    </p>
+    
+    {{/each}}
+        
+    </div>
