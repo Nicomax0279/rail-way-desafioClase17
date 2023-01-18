@@ -31,7 +31,7 @@ const options = {
 }
 const argvs = parsedArgs(process.argv.slice(2),options)
 //const PORT = argvs.port
-const PORT = env.PORT
+const PORT = process.env.PORT
 const MODE = argvs.mode
 
 
